@@ -1,0 +1,18 @@
+<html>
+<head>
+<link type="text/css" href="{{ url_for('static', filename='css/styles.css')}}" rel="stylesheet" />
+</head>
+
+<body>
+<ul class="menu">
+{% for m in menu %}
+<li class="c2">{{m}}</li>
+{% endfor %}
+</ul>
+<div class="box1"></div>
+
+
+
+</body>
+
+</html>

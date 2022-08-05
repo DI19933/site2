@@ -1,0 +1,193 @@
+.menu{
+width: 1000px;
+display:flex;
+justify-content: center;
+  align-items: center;
+
+}
+
+body{
+background:black;
+
+}
+
+
+
+.menu2{
+color:#ccffff;
+margin-left: 10%;
+font-size:120%;
+}
+.menu2:hover{
+text-decoration: underline;
+}
+.box1{
+display:flex;
+width: 1500px;
+
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+justify-content: center;
+align-items: center;
+}
+
+.box11{
+margin: 10px;
+}
+
+.box2{
+margin: 10px;
+color:#ccffff;
+}
+.box2:hover{
+text-decoration: underline;
+}
+
+.img{
+border-radius:50px;
+}
+
+.text1{
+color:#ccffff;
+margin-left:37%;
+margin-top:5%;
+}
+
+.text2{
+color:#ccffff;
+
+}
+
+
+.img-responsive{
+width:300px;
+height:300px;
+margin:0%;
+}
+
+
+.responsivediv{
+width:400px;
+height:400px;
+margin:2%;
+}
+
+.services{
+justify-content: center;
+align-items: center;
+display:flex;
+}
+
+.servi2{
+margin:0%;
+justify-content: center;
+align-items: center;
+display:flex;
+flex-wrap: wrap;
+}
+
+.vseporody{
+display:flex;
+width:100%;
+height:50%;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+.text3{
+margin-left:35%;
+display:flex;
+color:#ccffff;
+}
+
+
+.img3{
+margin-left:25%;
+
+}
+
+.primery{
+display:flex;
+flex-direction: column-reverse;
+
+width:100%;
+height:2300px;
+background:black;
+margin:0%
+
+}
+
+.text4{
+display:flex;
+margin-left:2%;
+align-items: center;
+align-content: center;
+color:#ccffff;
+}
+
+.text4:hover{
+text-decoration: underline;
+}
+
+.xprimery{
+
+display:flex;
+width:100%;
+height:1800px;
+justify-content: space-between;
+margin-top:3%
+}
+
+.foter{
+display:flex;
+margin-left:4%;
+width:90%;
+height:300px;
+}
+
+.foter0{
+display:flex;
+flex-direction: column-reverse;
+margin:0%;
+width:50%;
+height:300px;
+}
+
+.foterin{
+display:flex;
+color:#ccffff;
+font-size:100%;
+}
+
+.foter2{
+display:flex;
+flex-direction: column-reverse;
+margin:0%;
+width:50%;
+height:300px;
+}
+
+.foterin2{
+display:flex;
+color:#ccffff;
+font-size:100%;
+}
+
+.foterin2:hover{
+text-decoration:line-through;
+}
+
+.foterin:hover{
+text-decoration:line-through;
+}
+
+.responsivediv:hover{
+  -webkit-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  transform: scale(0.7);
+}
